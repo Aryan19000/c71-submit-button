@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "buzz-app",
+    "slug": "buzz-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "buzz-app"
+}
